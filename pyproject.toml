@@ -7,7 +7,7 @@ name = "jsonl-resync"
 version = "1.0.0"
 description = "Locate the first corrupt JSONL line by byte offset and resync past it"
 readme = "README.md"
-requires-python = ">=3.9"
+requires-python = ">=3.10"
 license = {text = "MIT"}
 authors = [{name = "linluozi"}]
 classifiers = ["Programming Language :: Python :: 3", "License :: OSI Approved :: MIT License"]

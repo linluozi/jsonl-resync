@@ -49,7 +49,7 @@ python3 -m venv .venv && .venv/bin/pip install -e ".[test]"
 .venv/bin/python -m pytest -q          # 11 passed
 ```
 
-Python ≥ 3.9, standard library only.
+Python ≥ 3.10 (developed and tested on 3.12), standard library only.
 
 ## Evidence (real run, not estimated)
 
